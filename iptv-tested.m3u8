@@ -667,13 +667,3 @@ http://stream.qhbtv.com/qhds/sd/live.m3u8?_upt=efeefead1707378479
 https://liveout.xntv.tv/a65jur/96iln2.m3u8
 #EXTINF:-1 group-title="青海台" tvg-logo="http://tv.haoqu99.com/d/file/2016/1112/31c78e268aa487753cbbd410e7a5c4a5.jpg",西宁生活服务频道
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/CGTNDoc.png",CGTN纪录
-https://livedoc.cgtn.com/500d/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
-https://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png",CGTN法语
-https://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png",CGTN西语
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png",CGTN阿语
-https://livear.cgtn.com/1000a/prog_index.m3u8
